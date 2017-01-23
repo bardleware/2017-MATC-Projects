@@ -1,6 +1,6 @@
 I am planning on getting a new computer soon. I am leaning towards a dell xps 15 or
 a dell 7569. Tim pointed out something that I had not thought of before: that I could
-use a mac to remote into it from a client so I would be able to program in macOS
+use a mac to remote into it from a client using, RealVNC,so I would be able to program in macOS
 instead of having to buy a new macbook.
 
 This would meet all of my needs for computing.
